@@ -10,10 +10,13 @@
   --color-black: hsl(252,30%,10%);
 
   --border-radius:2rem;
-  --card-border-radios:1rem;
+  --card-border-radius:1rem;
   --btn-padding:0.6rem 2rem;
   --search-padding:0.6rem 1rem;
   --card-padding:1rem;
+
+  --sticky-top-left:5.4rem;
+  --sticky-top-right:-18rem;
 }
 
 .btn {

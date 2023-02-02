@@ -3,3 +3,6 @@
 @import './utilidades/cores.css';
 @import './utilidades/tipografia.css';
 @import './utilidades/componentes.css';
+@import './sidebar-left.css';
+@import './center.css';
+@import '.conteudo-right.css';
