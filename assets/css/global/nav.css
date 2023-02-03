@@ -13,13 +13,13 @@ nav .container {
   justify-content: space-between;
 }
 
-nav .search-bar {
+.search-bar {
   background: var(--color-light);
   border-radius: var(--border-radius);
   padding: var(--search-padding);
 }
 
-nav .search-bar input {
+.search-bar input {
   background: transparent;
   width: 30vw;
   margin-left: 1rem;
